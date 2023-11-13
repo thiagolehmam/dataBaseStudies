@@ -1,4 +1,4 @@
-# dataBaseStudies
+# Estudos de Banco de Dados
 
 # Data Science and SQL Studies
 
